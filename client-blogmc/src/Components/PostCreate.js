@@ -6,10 +6,10 @@ const Container = styled.div`
   display: flex;
   flex-direction: column;
   align-items: center;
-  background: orange;
+  background: white;
   color: white;
-  width: 50%;
-  height: 60%;
+  width: auto;
+  height: auto;
 `;
 
 const Form = styled.form`
@@ -19,7 +19,6 @@ const Form = styled.form`
   font-size: 20px;
   padding: 30px 0px 30px 0px;
   color: black;
-  justify-content: space-between;
   align-items: center;
 `;
 
