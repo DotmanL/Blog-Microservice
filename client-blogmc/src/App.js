@@ -10,7 +10,7 @@ const Container = styled.div`
   background: darkblue;
   color: white;
   width: auto;
-  height: 100vh;
+  height: auto;
 `;
 
 const App = () => {
